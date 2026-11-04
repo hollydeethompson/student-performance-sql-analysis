@@ -94,9 +94,8 @@ https://archive.ics.uci.edu/dataset/320/student+performance
 
 Related Project
 
-Student Performance Analysis Using Google Sheets
+[Student Performance Analysis Using Google Sheets](https://github.com/hollydeethompson/Student-Performance-Analysis)
 
-Conclusion
 
 This project demonstrates my ability to use SQL to validate data, calculate descriptive statistics, compare groups, and investigate unusual patterns.
 
